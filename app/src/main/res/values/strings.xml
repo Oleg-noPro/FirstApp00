@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">FirstApp</string>
+    <string name="my_text">Привет медвед!</string>
+    <string name="developer_text">Программист</string>
+</resources>
