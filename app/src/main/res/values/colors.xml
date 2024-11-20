@@ -5,4 +5,5 @@
     <color name="color_lightblue">#72EBD7</color>
     <color name="color_indigo">#140A61</color>
     <color name="color_green">#B6A8</color>
+    <color name="buttonBackground">#FFEB3B</color>
 </resources>

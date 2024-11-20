@@ -2,4 +2,9 @@
     <string name="app_name">FirstApp</string>
     <string name="my_text">Привет медвед!</string>
     <string name="developer_text">Программист</string>
+    <string name="text_revers">Все наоборот</string>
+    <string name="editTextInput">: Поле ввода</string>
+    <string name="button_input">Преобразовать</string>
+    <string name="text_result">Результат</string>
+    <string name="input_size">Количество символов</string>
 </resources>
